@@ -1,0 +1,10 @@
+Soal 1
+CREATE DATABASE myshop;
+Soal 2
+
+Soal 3
+- users :
+
+- items :
+INSERT INTO `items` (`id`, `name`, `description`, `price`, `stock`, `category_id`) VALUES (NULL, 'Sumsang b50', 'hape keren dari merek sumsang', '4000000', '100', '1'), (NULL, 'Uniklooh', 'baju keren dari brand ternama', '500000', '50', '2'), (NULL, 'IMHO Watch', 'jam tangan anak yang jujur banget', '2000000', '10', '1');
+- categories :
